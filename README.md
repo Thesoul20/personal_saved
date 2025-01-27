@@ -1,3 +1,3 @@
-# personal_saved
+# Word Cloud 
 
-In this repo, saved overall personly used useful python files to handle daily work.
+In this brench, there are word cloud code to generate Word Cloud for single or multiple Markdown file.
